@@ -1,5 +1,7 @@
 
+//var
 
+let deposito = []
 //capturas DOM
 let divProductos = document.getElementById("productos")
 let buscador = document.getElementById("buscador")
